@@ -36,5 +36,5 @@ aside {
 /* Optional: Add some height for visual representation as in the diagram */
 header, footer { height: 50px; }
 nav { height: 40px; }
-.main-content { height: 200px; } /* Controls height of section and aside */
+.main-content { height: 200px;  } /* Controls height of section and aside */
 article { height: 100px; }
